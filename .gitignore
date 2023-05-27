@@ -1,0 +1,5 @@
+# All csv files that I upload from buddy app
+buddy_export*
+
+# vir env
+buddyEnv/
